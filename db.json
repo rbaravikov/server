@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Ultra HD 4K Smart TV",
+      "category": "electronics",
+      "price": 4000,
+      "description": "Experience stunning 4K visuals with Ultra HD Smart Tv, featuring state of the art technology and seamless connectivity"
+    },
+    {
+      "id": 2,
+      "title": "Bluetooth Noise-Canceling Headphones",
+      "category": "electronics",
+      "price": 2000,
+      "description": "Immerse yourself in music wilt our Bluetooth Noise-Canceling Headphones, offering exeptional sound quality and comfort."
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "category": "books",
+      "price": 1000,
+      "description": "This is description about product 3"
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "category": "fitness",
+      "price": 3000,
+      "description": "This is description about product 4"
+    },
+    {
+      "id": 5,
+      "title": "Product 5",
+      "category": "fitness",
+      "price": 4000,
+      "description": "This is description about product 5"
+    },
+    {
+      "id": 6,
+      "title": "Product 6",
+      "category": "gardening",
+      "price": 5000,
+      "description": "This is description about product 6"
+    },
+    {
+      "id": 7,
+      "title": "Product 7",
+      "category": "furniture",
+      "price": 6000,
+      "description": "This is description about product 7"
+    },
+    {
+      "id": 8,
+      "title": "Product 8",
+      "category": "furniture",
+      "price": 7000,
+      "description": "This is description about product 8"
+    },
+    {
+      "id": 9,
+      "title": "Product 9",
+      "category": "accessories",
+      "price": 4000,
+      "description": "This is description about product 9"
+    },
+    {
+      "id": 10,
+      "title": "Product 10",
+      "category": "electronics",
+      "price": 3000,
+      "description": "This is description about product 10",
+      "discount": {
+        "type": "shipping"
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "user": "Alice Johnson",
+      "commentTitle": "Comment title",
+      "rating": 3,
+      "comment": "Comment Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos officia sed eveniet possimus dolorem quibusdam, corporis dolor, quia ab non libero velit soluta esse veniam. Exercitationem placeat earum doloribus perferendis.",
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "user": "Tom Jackies 3",
+      "rating": 4,
+      "comment": "Review 2 for product id 1?????",
+      "productId": 1
+    },
+    {
+      "id": 3,
+      "user": "User 3",
+      "rating": 4,
+      "comment": "Review 3 for product id 1",
+      "productId": 1
+    },
+    {
+      "id": 4,
+      "user": "User 4",
+      "rating": 5,
+      "comment": "Review 1 for product id 2",
+      "productId": 2
+    },
+    {
+      "id": 4,
+      "user": "User 4",
+      "rating": 5,
+      "comment": "Review 1 for product id 2",
+      "productId": 2
+    },
+    {
+      "id": 4,
+      "user": "User 4",
+      "rating": 5,
+      "comment": "Review 1 for product id 2",
+      "productId": 2
+    },
+    {
+      "id": 4,
+      "user": "User 4",
+      "rating": 5,
+      "comment": "Review 1 for product id 2",
+      "productId": 2
+    },
+    {
+      "id": 5,
+      "rating": 3,
+      "user": "User 3",
+      "comment": "Review 1 for product id 3",
+      "productId": 3
+    }
+  ]
+}
